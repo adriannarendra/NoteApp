@@ -1,0 +1,9 @@
+.content-note{
+    height: 1000px !important;
+}
+.input-content{
+    height:500px;
+    width:500px;
+    word-break: break-word;
+    resize: none;
+}

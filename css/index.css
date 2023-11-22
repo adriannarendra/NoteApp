@@ -1,0 +1,15 @@
+.container2 {
+    display:table;  
+}
+.div1 {
+    display:table-footer-group; 
+}
+.div2 {
+    display:table-header-group;
+}
+.card-inside{
+    max-width: 1120px;
+}
+.card-title{
+    margin-right: 10px;
+}
